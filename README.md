@@ -1,7 +1,14 @@
+## Introduction
+
+This project is part of my hands-on cybersecurity training, focusing on password security and ethical security testing. The lab explores John the Ripper (JTR), Johnny, and password-analysis tools in a controlled practice environment to understand password protection, hashing, and responsible security assessment.
+
+
+
+
 # jtr-password-cracking-lab-Week-3-
 Cybersecurity lab demonstrating password recovery of an authorized protected PDF using John the Ripper (JTR) and Johnny.
 
-PROJECT MODULE 1
+# PROJECT MODULE 1
 
 Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR
 JOHN and JTR JOHNNY tools on your Windows PC.
@@ -41,7 +48,7 @@ FROM THAT POINT WE WILL HAVE FOUND THE PASSWORD OF THE ENCRYPTED PDF. NEXT IS TO
 <img width="1600" height="909" alt="WhatsApp Image 2026-09-05 at 3 04 55 PM" src="https://github.com/user-attachments/assets/531f1fb6-9665-4dfa-a0a3-fc134d70cd2a" />
 
 
-PROJECT MODULE 2
+# PROJECT MODULE 2
 
 
 Crack the password of the attached PDF file (My Locked PDF1.pdf) using the
@@ -80,7 +87,7 @@ Open the locked PDF file and enter the cracked password.Then enter password you 
 <img width="1600" height="890" alt="WhatsApp Image 2026-09-05 at 3 04 55 PM(1)" src="https://github.com/user-attachments/assets/ed5a88ba-580d-481e-9d4a-e30f50bab683" />
 
 
-PROJECT MODULE 3: HOW TO SETUP HEXSTRIKE MCP SERVER
+# PROJECT MODULE 3: HOW TO SETUP HEXSTRIKE MCP SERVER
 
 Setup Hexstrike MCP Server on Kali linux with Claude desktop
 
@@ -142,5 +149,11 @@ Server is running now:
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-05_14_43_50" src="https://github.com/user-attachments/assets/9149c94a-51c3-422f-a847-60f2106117a9" />
 
+## Disclaimer
 
-END
+This project is intended **strictly for educational and authorized cybersecurity training purposes**. All techniques and tools were used in a controlled lab environment on files and systems provided for practice. No unauthorized access or testing of third-party systems was performed.
+
+## Conclusion
+
+This lab provided practical experience with password security testing and helped strengthen my understanding of password hashes, recovery techniques, and the importance of strong password protection. All activities were performed in an authorized learning environment for cybersecurity education.
+
