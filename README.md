@@ -143,3 +143,4 @@ Server is running now:
 <img width="1920" height="1080" alt="Screenshot_2026-09-05_14_43_50" src="https://github.com/user-attachments/assets/9149c94a-51c3-422f-a847-60f2106117a9" />
 
 
+END
